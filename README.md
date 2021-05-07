@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm SnowFleur</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowfleur&label=Profile%20views&color=0e75b6&style=flat" alt="snowfleur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowfleur" alt="snowfleur" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
