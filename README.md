@@ -9,5 +9,4 @@
 
 <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/> 	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowfleur&show_icons=true&locale=en&layout=compact" alt="snowfleur" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowfleur&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
